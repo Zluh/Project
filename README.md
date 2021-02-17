@@ -1,5 +1,4 @@
 # Project
-# Project Title
 
 Use of Artificial Intelligence in Forensic Science
 
